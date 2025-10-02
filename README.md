@@ -3,7 +3,7 @@
 ## Table of Contents
 
 ### Part 1: Introduction to Operating Systems
-- **Chapter 1: Introduction**
+- **[Chapter 1: Introduction](1.Introduction.md)**
   - What is an Operating System?
   - History of Operating Systems
   - Computer System Organization
@@ -18,7 +18,7 @@
   - Open-Source Operating Systems
 
 ### Part 2: System Structures
-- **Chapter 2: Operating-System Structures**
+- **[Chapter 2: Operating-System Structures](2.Operating-System-Structures.md)**
   - Operating System Services
   - User and Operating-System Interface
   - System Calls
@@ -31,14 +31,14 @@
   - System Boot
 
 ### Part 3: Process Management
-- **Chapter 3: Processes**
+- **[Chapter 3: Processes](3.Processes.md)**
   - Process Concept
   - Process Scheduling
   - Operations on Processes
   - Interprocess Communication
   - Examples of IPC Systems
   - Communication in Client-Server Systems
-- **Chapter 4: Threads**
+- **[Chapter 4: Threads](4.Threads.md)**
   - Overview
   - Multicore Programming
   - Multithreading Models
@@ -46,7 +46,7 @@
   - Implicit Threading
   - Threading Issues
   - Operating System Examples
-- **Chapter 5: CPU Scheduling**
+- **[Chapter 5: CPU Scheduling](5.CPU-Scheduling.md)**
   - Basic Concepts
   - Scheduling Criteria
   - Scheduling Algorithms
@@ -57,7 +57,7 @@
   - Algorithm Evaluation
 
 ### Part 4: Synchronization
-- **Chapter 6: Process Synchronization**
+- **[Chapter 6: Process Synchronization](6.Process-Synchronization.md)**
   - Background
   - The Critical-Section Problem
   - Peterson's Solution
@@ -68,7 +68,7 @@
   - Monitors
   - Synchronization Examples
   - Alternative Approaches
-- **Chapter 7: Deadlocks**
+- **[Chapter 7: Deadlocks](7.Deadlocks.md)**
   - System Model
   - Deadlock Characterization
   - Methods for Handling Deadlocks
@@ -78,7 +78,7 @@
   - Recovery from Deadlock
 
 ### Part 5: Memory Management
-- **Chapter 8: Main Memory**
+- **[Chapter 8: Main Memory](8.Main-Memory.md)**
   - Background
   - Swapping
   - Contiguous Memory Allocation
@@ -86,7 +86,7 @@
   - Structure of the Page Table
   - Segmentation
   - Example: The Intel Pentium
-- **Chapter 9: Virtual Memory**
+- **[Chapter 9: Virtual Memory](9.Virtual-Memory.md)**
   - Background
   - Demand Paging
   - Copy-on-Write
@@ -99,14 +99,14 @@
   - Operating System Examples
 
 ### Part 6: Storage Management
-- **Chapter 10: File-System Interface**
+- **[Chapter 10: File-System Interface](10.File-System-Interface.md)**
   - File Concept
   - Access Methods
   - Directory and Disk Structure
   - File-System Mounting
   - File Sharing
   - Protection
-- **Chapter 11: File-System Implementation**
+- **[Chapter 11: File-System Implementation](11.File-System-Implementation.md)**
   - File-System Structure
   - File-System Implementation
   - Directory Implementation
@@ -115,7 +115,7 @@
   - Efficiency and Performance
   - Recovery
   - NFS
-- **Chapter 12: Mass-Storage Structure**
+- **[Chapter 12: Mass-Storage Structure](12.Mass-Storage-Structure.md)**
   - Overview of Mass-Storage Structure
   - Disk Structure
   - Disk Attachment
@@ -126,7 +126,7 @@
   - Stable-Storage Implementation
 
 ### Part 7: I/O Systems
-- **Chapter 13: I/O Systems**
+- **[Chapter 13: I/O Systems](13.I-O-Systems.md)**
   - Overview
   - I/O Hardware
   - Application I/O Interface
@@ -136,7 +136,7 @@
   - Performance
 
 ### Part 8: Protection and Security
-- **Chapter 14: System Protection**
+- **[Chapter 14: System Protection](14.System-Protection.md)**
   - Goals of Protection
   - Principles of Protection
   - Domain of Protection
@@ -146,7 +146,7 @@
   - Revocation of Access Rights
   - Capability-Based Systems
   - Language-Based Protection
-- **Chapter 15: System Security**
+- **[Chapter 15: System Security](15.System-Security.md)**
   - The Security Problem
   - Program Threats
   - System and Network Threats
@@ -158,7 +158,7 @@
   - An Example: Windows 7
 
 ### Part 9: Advanced Topics
-- **Chapter 16: Distributed Systems**
+- **[Chapter 16: Distributed Systems](16.Distributed-Systems.md)**
   - Advantages of Distributed Systems
   - Types of Network-based Operating Systems
   - Network Structure
@@ -167,7 +167,7 @@
   - Robustness
   - Design Issues
   - An Example: Samba
-- **Chapter 17: The Linux System**
+- **[Chapter 17: The Linux System](17.The-Linux-System.md)**
   - Linux History
   - Design Principles
   - Kernel Modules
@@ -179,7 +179,7 @@
   - Interprocess Communication
   - Network Structure
   - Security
-- **Chapter 18: Windows 10**
+- **[Chapter 18: Windows 10](18.Windows-10.md)**
   - History
   - Design Principles
   - System Components
@@ -187,17 +187,17 @@
   - File System
   - Networking
   - Programmer Interface
-- **Chapter 19: Real-Time and Embedded Systems**
+- **[Chapter 19: Real-Time and Embedded Systems](19.Real-Time-and-Embedded-Systems.md)**
   - Real-Time Systems
   - Embedded Systems
   - Real-Time Scheduling
   - VxWorks
-- **Chapter 20: Virtualization**
+- **[Chapter 20: Virtualization](20.Virtualization.md)**
   - Overview
   - Types of Virtualization
   - Virtualization and Operating-System Components
   - Examples
-- **Chapter 21: Cloud Computing**
+- **[Chapter 21: Cloud Computing](21.Cloud-Computing.md)**
   - Overview
   - Service Models
   - Deployment Models
